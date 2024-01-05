@@ -1,14 +1,14 @@
 {
-  "clientId": "925354058200514560",
-  "token": "OTI1MzU0MDU4MjAwNTE0NTYw.Ycr5Hw.OAoWiHCrpxMGcBZfWYh_HLeFMQA",
+  "clientId": "yourclientid",
+  "token": "yourdiscordbotclient",
 
-  "parentOpened": "935839234152087572",
+  "parentOpened": "openedparent",
   "Category1": "Minecraft bug report",
   "Category2": "Suggestão",
   "Category3": "Outro",
 
-  "roleSupport": ["935839223527931924", ""
+  "roleSupport": ["rolesupport", ""]
   
-  "logsTicket": "935839256587407400",
-  "ticketChannel": "935847536214827048"
+  "logsTicket": "logsticketchannel",
+  "ticketChannel": "ticketchanel"
 }
